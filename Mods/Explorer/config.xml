@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Main_Menu_Toggle>F7</Main_Menu_Toggle>
+  <Default_Window_Size>
+    <x>550</x>
+    <y>700</y>
+  </Default_Window_Size>
+  <Default_Page_Limit>20</Default_Page_Limit>
+</ModConfig>
