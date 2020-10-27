@@ -11,9 +11,9 @@ Put everything into game folder of YuanShen, and launch game directly, you shoul
 
 ## Notice
 
-You will not be able to login in the game with this mod, bypass the mhyprot2,the CRC of UserAssembly.dll, and the file check is required to be able to login in the game with this mod installed. Source code is not included at this time, I will release it after this loadder became invalid.
+You will not be able to login in the game with this mod, bypass the mhyprot2,the CRC of UserAssembly.dll, and the file check is required to be able to login in the game with this mod installed. ~~Source code is not included at this time, I will release it after this loadder became invalid.~~ Source code is now available.
 
-使用此mod你将无法登录进入游戏，带着此mod登录进入游戏需要绕过mhyprot2，UserAssembly.dll的代码CRC以及绕过游戏对游戏目录的文件检查。目前不开放源码，需要看什么自己dnspy看，源码将会在该mod失效之后放出。
+使用此mod你将无法登录进入游戏，带着此mod登录进入游戏需要绕过mhyprot2，UserAssembly.dll的代码CRC以及绕过游戏对游戏目录的文件检查。~~目前不开放源码，需要看什么自己dnspy看，源码将会在该mod失效之后放出。~~ 源码已经公开。
 
 
 
